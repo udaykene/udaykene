@@ -1,7 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/61c30d99-d3bb-4d80-9aa2-f28fb4184cd6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/1c6d8564-225f-4e4d-82d9-be305c760532" />
-  <img alt="dark-theme-banner-github" src="https://github.com/user-attachments/assets/61c30d99-d3bb-4d80-9aa2-f28fb4184cd6" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4655c8b0-c601-45a3-bc10-396f0ae11604" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/205dcf30-df87-4f4f-9977-deda164dbd3a" />
+  <img alt="Git-hub-banner" src="https://github.com/user-attachments/assets/4655c8b0-c601-45a3-bc10-396f0ae11604" />
+
 </picture>
 
 <!-- Snake Animation -->
